@@ -1,0 +1,27 @@
+.bg-orange
+{
+    background-color: darkgoldenrod !important;
+}
+
+.woman
+{
+height: 250px;
+    background-color: black;
+    background-image: url("../images/hand2.png");
+    background-repeat: no-repeat;
+}
+.woman h1
+{
+    color: #61fb04;
+    text-align: center;
+    padding-top: 100px;
+}
+.card {
+    margin-top : 15px;
+}
+
+footer
+{
+    background-color: black;
+    color: #61fb04;
+}

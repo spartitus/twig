@@ -1,0 +1,13 @@
+{
+    "name": "estev/twig",
+    "description": "challenge twig",
+    "authors": [
+        {
+            "name": "Estevao Fernandes",
+            "email": "estevao.fernandes@live.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
